@@ -1,0 +1,12 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# RStudio files
+.Rproj.user/
+
+# Tests files
+tests
+
+# OAuth2 token
+.httr-oauth
